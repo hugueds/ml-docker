@@ -1,0 +1,27 @@
+{
+  "name": "machine-learning-docker",
+  "version": "0.1.0",
+  "description": "a repo containing all kinds of models for classification, object detection, annotation and its images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugueds/ml-docker.git"
+  },
+  "keywords": [
+    "docker",
+    "ml",
+    "tensorflow"
+  ],
+  "author": "hugo peres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugueds/ml-docker/issues"
+  },
+  "homepage": "https://github.com/hugueds/ml-docker#readme",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  }
+}
